@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.75ed1e53.css",
+    "main.js": "/static/js/main.8583fc46.js",
+    "static/js/453.d7446e4a.chunk.js": "/static/js/453.d7446e4a.chunk.js",
+    "static/media/Hardware.png": "/static/media/Hardware.e80e09466e7390a8bcdd.png",
+    "static/media/Kitchen.png": "/static/media/Kitchen.63ce62744479c7d6bffc.png",
+    "static/media/Fashion.png": "/static/media/Fashion.4e2c5cbc0a32df743a21.png",
+    "static/media/Plumbing.png": "/static/media/Plumbing.a1a57c1f855b18f9411f.png",
+    "static/media/Groceries.png": "/static/media/Groceries.a4033080a39d37d5a4e0.png",
+    "static/media/lady.png": "/static/media/lady.1ee8d326510ccace8c9d.png",
+    "static/media/Knife.png": "/static/media/Knife.d9dd7d1d65b464698230.png",
+    "static/media/Mobile.png": "/static/media/Mobile.c5730e20b802e5e031de.png",
+    "static/media/bag.jpeg": "/static/media/bag.6dacf38522eb7001323b.jpeg",
+    "static/media/Browse.jpeg": "/static/media/Browse.926e214fcf7f6b8e43d7.jpeg",
+    "static/media/lady1.jpeg": "/static/media/lady1.69cd54a418dd94fc8652.jpeg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.75ed1e53.css.map": "/static/css/main.75ed1e53.css.map",
+    "main.8583fc46.js.map": "/static/js/main.8583fc46.js.map",
+    "453.d7446e4a.chunk.js.map": "/static/js/453.d7446e4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75ed1e53.css",
+    "static/js/main.8583fc46.js"
+  ]
+}
